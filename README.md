@@ -35,4 +35,4 @@ gradient_slide_to_act: any # or the latest version on Pub
 
 ## Additional information
 
-You can see more examples on pub.dev 
+You can view more examples on [pub.dev](https://pub.dev/packages/gradient_slide_to_act)
