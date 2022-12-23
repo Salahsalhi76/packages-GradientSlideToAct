@@ -2,8 +2,9 @@
 This package was created by SALAH EDDINE SALHI in 12-23-2022
 
 ## Gradient Slide To Act
-slide to act button with simple animations and gradient background
 ![img.png](img.png)
+
+slide to act button with simple animations and gradient background
 ## Getting started
 ```yaml
 dependencies:
