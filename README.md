@@ -15,25 +15,24 @@ gradient_slide_to_act: any # or the latest version on Pub
 
 
 ```dart
-GradientSlideToActSalah(
-width: lay.maxWidth,
-draggableWidget: const _circle(),
-textStyle: mediumStyle(fontSize: 15),
-backgroundColor: ColorManager.primary_dark_Color2,
-onSubmit: onSubmit,
-gradient: const LinearGradient(
-begin: Alignment.topLeft,
-end: Alignment.bottomRight,
-colors: [
-Color(0xff0da6c2),
-Color(0xff0E39C6),
-]
-),
+ GradientSlideToActSalah(
+ width: 400,
+ textStyle: TextStyle(color: Colors.white),
+ backgroundColor: Colors.blue,
+ onSubmit: (){
+  debugPrint("Submitted!");
+ },
+ gradient: const LinearGradient(
+ begin: Alignment.topLeft,
+ end: Alignment.bottomRight,
+  colors: [
+    Color(0xff0da6c2),
+    Color(0xff0E39C6),
+  ]
+ ),
 )
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+You can see more examples on pub.dev 
