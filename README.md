@@ -11,7 +11,6 @@ dependencies:
 gradient_slide_to_act: any # or the latest version on Pub
 ```
 
-
 ## Usage
 
 
