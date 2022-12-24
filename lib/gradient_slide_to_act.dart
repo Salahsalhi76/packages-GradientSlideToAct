@@ -4,7 +4,6 @@ library gradient_slide_to_act;
 import 'package:flutter/material.dart';
 
 
-
 class GradientSlideToActSalah extends StatefulWidget {
   ///  the width of the SlidableButton
   final double width;
@@ -104,14 +103,7 @@ class _GradientSlideToActSalahState extends State<GradientSlideToActSalah> with 
                         width: _position + widget.height,
                         decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(52),
-                            gradient: const LinearGradient(
-                                begin: Alignment.topLeft,
-                                end: Alignment.bottomRight,
-                                colors: [
-                                  Color(0xff0da6c2),
-                                  Color(0xff0E39C6),
-                                ]
-                            )
+                            gradient: widget.gradient
                         ),
                       ),
                     ],

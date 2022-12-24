@@ -1,7 +1,7 @@
 name: gradient_slide_to_act
-description: A new Flutter package project.
+description: slide to act button with simple animations and gradient background
 version: 0.0.1
-homepage:
+homepage: https://github.com/Salahsalhi76/packages-GradientSlideToAct
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
