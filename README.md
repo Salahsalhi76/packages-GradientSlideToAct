@@ -79,4 +79,7 @@ slide to act button with simple animations and gradient background
 
 You can view more examples on [pub.dev](https://pub.dev/packages/gradient_slide_to_act)
 
-![](../../../Desktop/portfolio/salah pi c/Blue Modern Manager Marketing Linkedin Article Cover.png)
+
+![Blue Modern Manager Marketing Linkedin Article Cover](https://user-images.githubusercontent.com/89273323/209433061-bea9a270-22bf-4501-b952-694b300e302a.png)
+
+
