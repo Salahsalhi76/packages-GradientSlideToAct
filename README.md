@@ -25,8 +25,8 @@ slide to act button with simple animations and gradient background
  begin: Alignment.topLeft,
  end: Alignment.bottomRight,
   colors: [
-    Color(0xff0da6c2),
-    Color(0xff0E39C6),
+     Color(0xff0da6c2),
+     Color(0xff0E39C6),
    ]
   ),
 )
