@@ -4,8 +4,9 @@ This package was created by SALAH EDDINE SALHI in 12-23-2022
 ## Gradient Slide To Act
 ![img.png](img.png)
 
-![](../../../Downloads/gif.gif)
+![gif](https://user-images.githubusercontent.com/89273323/209430948-7703b765-0fce-43ce-ab4e-6cf09fbffe7a.gif)
 
+ 
 slide to act button with simple animations and gradient background
 ## Getting started
 ```yaml
