@@ -5,13 +5,15 @@ This package was created by SALAH EDDINE SALHI
 slide to act button with simple animations and gradient background
 
 ![img.png](img.png)
+![gif](https://user-images.githubusercontent.com/89273323/209432773-f9caffec-b393-407b-b91a-2ee1b8b5169c.gif)
+![gif-2](https://user-images.githubusercontent.com/89273323/209432776-455b9c70-d4ab-46c9-a7da-42e7c9df3065.gif)
+![gif-3](https://user-images.githubusercontent.com/89273323/209432779-316286b1-273b-497e-b9c9-9eb353fed886.gif)
 
-![](../../../Downloads/gif.gif)
 
  
 ## Usage
 
-![](../../../Downloads/gif.gif)
+![gif](https://user-images.githubusercontent.com/89273323/209432773-f9caffec-b393-407b-b91a-2ee1b8b5169c.gif)
 
 ```dart
  GradientSlideToAct(
@@ -32,6 +34,7 @@ slide to act button with simple animations and gradient background
 )
 ```
 
+![gif-2](https://user-images.githubusercontent.com/89273323/209432776-455b9c70-d4ab-46c9-a7da-42e7c9df3065.gif)
 
 ![](../../../Downloads/gif-2.gif)
 ```dart
@@ -50,6 +53,8 @@ slide to act button with simple animations and gradient background
        ),
      )
 ```
+
+![gif-3](https://user-images.githubusercontent.com/89273323/209432779-316286b1-273b-497e-b9c9-9eb353fed886.gif)
 
 ```dart
         GradientSlideToAct(
