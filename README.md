@@ -40,8 +40,8 @@ slide to act button with simple animations and gradient background
 ```dart
      GradientSlideToAct(
        width: 400,
-      dragableIcon: Icons.arrow_forward,
-       textStyle: mediumStyle(fontSize: 15),
+       dragableIcon: Icons.arrow_forward,
+       textStyle: TextStyle(color: Colors.white,fontSize: 15),
        backgroundColor: Colors.purple,
        onSubmit:  (){},
        gradient:   LinearGradient(
@@ -60,7 +60,7 @@ slide to act button with simple animations and gradient background
         GradientSlideToAct(
           width: 400,
           dragableIconBackgroundColor: Colors.greenAccent,
-          textStyle: mediumStyle(fontSize: 15),
+          textStyle: TextStyle(color: Colors.white,fontSize: 15),
           backgroundColor: ColorManager.primary_dark_Color2,
           onSubmit: (){},
           gradient:  const LinearGradient(
