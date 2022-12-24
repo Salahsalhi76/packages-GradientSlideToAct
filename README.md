@@ -81,5 +81,5 @@ You can view more examples on [pub.dev](https://pub.dev/packages/gradient_slide_
 
 
  
-![Blue Modern Manager Marketing Linkedin Article Cover](https://user-images.githubusercontent.com/89273323/209433371-fceb36c5-2f6b-4865-90d2-1d7886dd53bc.png)
+![Blue Modern Manager Marketing Linkedin Article Cover](https://user-images.githubusercontent.com/89273323/209433526-fd5abfca-468f-4709-94ca-011b35ffa9d4.png)
 
